@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Genkins Demo with Maven">
+  <test name="GenkinsMaven">
+      
+      <classes>
+    
+      <class name="com.mystore.testcases.LoginPageTest"/>
+    
+      </classes>
+      
+  </test> <!-- Test --> 
+   
+
+</suite> <!-- Suite -->
